@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/63cf86d2ef6c47a8913197cef28b5da9/artifacts
+end_time: 1757669225654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63cf86d2ef6c47a8913197cef28b5da9
+run_name: brawny-stork-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757669197142
+status: 3
+tags: []
+user_id: ubuntu

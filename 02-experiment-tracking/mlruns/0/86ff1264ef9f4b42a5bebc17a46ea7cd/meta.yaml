@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/86ff1264ef9f4b42a5bebc17a46ea7cd/artifacts
+end_time: 1757660548367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86ff1264ef9f4b42a5bebc17a46ea7cd
+run_name: popular-wolf-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757660517570
+status: 3
+tags: []
+user_id: ubuntu
