@@ -1,0 +1,10 @@
+artifact_location: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/models/m-7b0aa6fe4fde4afb998f68ef7385285e/artifacts
+creation_timestamp: 1758312425351
+experiment_id: '267591253150840805'
+last_updated_timestamp: 1758312428659
+model_id: m-7b0aa6fe4fde4afb998f68ef7385285e
+model_type: null
+name: model
+source_run_id: 494bc17fd0d24fd39cac9a42904b36c2
+status: 2
+status_message: null

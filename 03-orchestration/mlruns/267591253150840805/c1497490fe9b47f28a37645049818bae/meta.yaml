@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/c1497490fe9b47f28a37645049818bae/artifacts
+end_time: 1758312693112
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: c1497490fe9b47f28a37645049818bae
+run_name: rumbling-newt-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758312689790
+status: 3
+tags: []
+user_id: ubuntu

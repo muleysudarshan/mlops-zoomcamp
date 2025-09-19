@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/1f945bbc0e80468faf6cad3c5d70602f/artifacts
+end_time: 1758312368580
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: 1f945bbc0e80468faf6cad3c5d70602f
+run_name: fun-crow-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758312368569
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/290e3cc2fcf14e199d51e5cb07ca6243/artifacts
+end_time: 1758312632720
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: 290e3cc2fcf14e199d51e5cb07ca6243
+run_name: wistful-fish-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758312632708
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/c997f17e9b5443f289a06882a8289e99/artifacts
+end_time: 1758312623782
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: c997f17e9b5443f289a06882a8289e99
+run_name: righteous-kite-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758312623770
+status: 3
+tags: []
+user_id: ubuntu

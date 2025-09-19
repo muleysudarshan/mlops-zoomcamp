@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/494bc17fd0d24fd39cac9a42904b36c2/artifacts
+end_time: 1758312428661
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: 494bc17fd0d24fd39cac9a42904b36c2
+run_name: lyrical-ox-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758312425333
+status: 3
+tags: []
+user_id: ubuntu

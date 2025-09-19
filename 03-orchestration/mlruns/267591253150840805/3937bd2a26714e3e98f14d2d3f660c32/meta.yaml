@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/3937bd2a26714e3e98f14d2d3f660c32/artifacts
+end_time: 1758310176119
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: 3937bd2a26714e3e98f14d2d3f660c32
+run_name: mercurial-cow-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758310176107
+status: 3
+tags: []
+user_id: ubuntu

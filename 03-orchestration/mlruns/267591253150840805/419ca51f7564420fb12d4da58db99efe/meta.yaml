@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/419ca51f7564420fb12d4da58db99efe/artifacts
+end_time: 1758312200038
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: 419ca51f7564420fb12d4da58db99efe
+run_name: merciful-skunk-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758312196713
+status: 3
+tags: []
+user_id: ubuntu

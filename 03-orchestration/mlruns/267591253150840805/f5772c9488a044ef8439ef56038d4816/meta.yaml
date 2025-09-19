@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/f5772c9488a044ef8439ef56038d4816/artifacts
+end_time: 1758312140401
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: f5772c9488a044ef8439ef56038d4816
+run_name: omniscient-bat-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758312140390
+status: 3
+tags: []
+user_id: ubuntu

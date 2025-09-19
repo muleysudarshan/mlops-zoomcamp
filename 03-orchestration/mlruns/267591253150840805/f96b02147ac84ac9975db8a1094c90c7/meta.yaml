@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/03-orchestration/mlruns/267591253150840805/f96b02147ac84ac9975db8a1094c90c7/artifacts
+end_time: 1758311758151
+entry_point_name: ''
+experiment_id: '267591253150840805'
+lifecycle_stage: active
+run_id: f96b02147ac84ac9975db8a1094c90c7
+run_name: judicious-wren-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758311758139
+status: 3
+tags: []
+user_id: ubuntu
