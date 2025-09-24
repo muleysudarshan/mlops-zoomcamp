@@ -6,11 +6,15 @@ name = "pypi"
 [packages]
 evidently = "*"
 pandas = "*"
-scikit-learn = "*"
 pyarrow = "*"
 jupyter = "*"
+scikit-learn = "==1.6.1"
+s3fs = "*"
+boto3 = "*"
+tabulate = "*"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_version = "3.12"
